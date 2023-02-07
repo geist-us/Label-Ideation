@@ -25,6 +25,31 @@ BitCoin. This allows for an environment where artists are greatly incentivized t
 best work and contribute to the growth of the label, while customers are largely 
 incentivized to do the same. Both reap the rewards of the label's continued growth.
 
-## **I. Introduction:**
+## **I. Introduction**
 
-The recording industry has largely failed to adapt to the changing tides in the music business at large. 
+The recording industry has largely failed to adapt to the changing tides in the music business at large. In the 
+past, before recording, music was a largely live and localized affair. Since the invention of the recording 
+industry, distribution has become a lucrative business, leading to several decades of an increasingly globalized 
+music 
+industry. However, now the internet has completely demolished the need for large, monopolized structures to 
+distribute music to the world. As a result, music labels and industry structures have relied instead on 
+bureaucratic hierarchies, verbose and usurious contracts, and social media algorithms to maintain relevance in a 
+rapidly changing business. This results in a top-down, pyramid-like structure for music, where very few musicians 
+are 
+able 
+to make a living and homogeneity is encouraged. Despite many musicians creating small, dedicated fanbases in the 
+new internet paradigm, they are unable to monetize this without playing the games set by the suits.
+
+We seek to alter this paradigm by using the distributive powers of the internet to reach a global audience, while 
+using a business structure that more closely emulates needing a small, localized fanbase to support us. It is the 
+opinion 
+of this author that an artist only needs one thousand dedicated fans to have a modest, middle-class income that 
+can support their work. Though we can see traces of this being true in the world today, with services such as 
+Patreon or Twitch leading the way towards an intimate relationship between creator and consumer, we are looking 
+to take this one giant leap further. 
+
+## **II. Artists**
+
+The bedrock for a music label is its artists. An ideal relationship between an artist and a label would be such 
+that the artist is willing and likely to continue releasing on the label because there are great benefits to 
+doing so. 
