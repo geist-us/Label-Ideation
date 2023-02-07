@@ -5,18 +5,20 @@
 *worlding.build@protonmail.com*
 
 **Abstract.**
-A purely tokenized music recording label would allow for artists and customers to share 
+GEIST is an artist and customer owned record label built on a tokenized structure. A 
+purely tokenized music recording label would allow for artists and customers to share 
 equity in the project and contribute to its development in novel ways. Fostering an intimate 
 relationship between artists on the label and its consumers creates a lasting, mutual investment in 
 the success of both parties. Firstly, we imagine a label that is like a one-time subscription 
-service for digital music. The price of entry into the system is negligible or inoffensive. Once in the 
+service for digital music. The price of entry into the system is negligible or inoffensive and in return the 
+customer receives a tokenized membership. Once in the 
 ecosystem, the artists 
 on 
 the label are able to airdrop, or directly send, tokenized music to the consumers. As NFTs allow for rapid, 
 frictionless 
 commerce, we rely on the consumers valuing the music as they see fit, while the label collects royalties from 
 token sales. This effectively turns our 'club members' into distributors and entrepreneurs for our digital music 
-tokens. We propose 
+tokens. Secondly, we propose 
 a business structure 
 where the revenue of the label is represented by a fungible token, here called GSTC. We enable the revenue of 
 the token to be split amongst token 
@@ -53,4 +55,6 @@ to take this one giant leap further.
 The bedrock for a music label is its artists. An ideal relationship between an artist and a label would be such 
 that the artist is willing and likely to continue releasing on the label because there are great benefits to 
 doing so. 
+
+To foster this sort of relationship, we propose paying the artist in the token GSTC. 
 
