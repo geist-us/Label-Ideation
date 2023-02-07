@@ -53,3 +53,4 @@ to take this one giant leap further.
 The bedrock for a music label is its artists. An ideal relationship between an artist and a label would be such 
 that the artist is willing and likely to continue releasing on the label because there are great benefits to 
 doing so. 
+
