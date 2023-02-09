@@ -58,3 +58,10 @@ doing so.
 
 To foster this sort of relationship, we propose paying the artist in the GSTC token. (WIP)  
 
+## **III. Distributors**
+
+## **IV. Goals**
+
+## **V. Conclusion**
+
+
