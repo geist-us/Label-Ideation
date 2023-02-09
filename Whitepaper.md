@@ -21,7 +21,7 @@ token sales. This effectively turns our 'club members' into distributors and ent
 tokens. Secondly, we propose 
 a business structure 
 where the revenue of the label is represented by a fungible token, here called GSTC. We enable the revenue of 
-the token to be split amongst token 
+the label to be split amongst token 
 holders in an automated, trustless fashion, paying both artists and loyal customers in the native currency of 
 BitCoin. This allows for an environment where artists are greatly incentivized to provide their 
 best work and contribute to the growth of the label, while customers are largely 
@@ -56,5 +56,5 @@ The bedrock for a music label is its artists. An ideal relationship between an a
 that the artist is willing and likely to continue releasing on the label because there are great benefits to 
 doing so. 
 
-To foster this sort of relationship, we propose paying the artist in the token GSTC. 
+To foster this sort of relationship, we propose paying the artist in the GSTC token. (WIP)  
 
