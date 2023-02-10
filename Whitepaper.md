@@ -50,7 +50,11 @@ can support their work. Though we can see traces of this being true in the world
 Patreon or Twitch leading the way towards an intimate relationship between creator and consumer, we are looking 
 to take this one giant leap further. 
 
-## **II. Artists**
+## **II. Structure**
+
+We propose a music label structure built on two tokens: the fungible token GSTC and the non-fungible membership card tokens.  
+
+## **III. Artists**
 
 The bedrock for a music label is its artists. An ideal relationship between an artist and a label would be such 
 that the artist is willing and likely to continue releasing on the label because there are great benefits to 
@@ -58,10 +62,10 @@ doing so.
 
 To foster this sort of relationship, we propose paying the artist in the GSTC token.   
 
-## **III. Distributors**
+## **IV. Distributors**
 
-## **IV. Goals**
+## **V. Goals**
 
-## **V. Conclusion**
+## **VI. Conclusion**
 
 
