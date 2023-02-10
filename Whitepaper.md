@@ -56,7 +56,7 @@ The bedrock for a music label is its artists. An ideal relationship between an a
 that the artist is willing and likely to continue releasing on the label because there are great benefits to 
 doing so. 
 
-To foster this sort of relationship, we propose paying the artist in the GSTC token. (WIP)  
+To foster this sort of relationship, we propose paying the artist in the GSTC token.   
 
 ## **III. Distributors**
 
