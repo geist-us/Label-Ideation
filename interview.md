@@ -29,9 +29,7 @@ structure that we hope can be copied by a myriad of independent labels in
 the years to come, making the experience of buying music and supporting 
 artists fun again.
  
-### 2. Why have you been more active in the BSV community over the past 
-couple 
-of months?
+### 2. Why have you been more active in the BSV community over the past couple of months?
 
 I originally conceived of a music label using BitCoin in 2018, but it took 
 a while for me to understand the economics and structure of it 
@@ -40,8 +38,7 @@ my technical understanding of BitCoin. We started releasing full albums as
 NFTs last September and have formalized the structure of the business more 
 recently with the launch of Relay Club.
  
-### 3. Why have you listed your music NFTs for such a low price (below 
-$1)?
+### 3. Why have you listed your music NFTs for such a low price (below $1)?
 
 It is our goal to have a low entry point into the GEIST ecosystem, such 
 that customers can act as distributors or entrepreneurs themselves through 
@@ -75,9 +72,7 @@ video platform where we will be streaming live performances, DJ sets, host
 conversations, live coding tutorials, and much more - all exclusively 
 accessible by holding a GEIST membership card.
  
-### 5. How does Bitcoin enable independent music artists or record labels 
-to 
-earn compared to the traditional industry?
+### 5. How does Bitcoin enable independent music artists or record labels to earn compared to the traditional industry?
 
 There has been much said on this topic as regards micropayments and 
 programmable contracts, and I look forward to seeing more innovative uses 
@@ -91,8 +86,7 @@ together brings about a new paradigm where many more people will be able
 to earn for their work, turning a top-down, hegemonic pyramid-like 
 structure into numerous small galaxies. 
  
-### 6. What are your thoughts on paying a micropayment each time a song is 
-played, as streamable.fm has implemented?
+### 6. What are your thoughts on paying a micropayment each time a song is played, as streamable.fm has implemented?
 
 I think it’s a great idea. I do believe this is the future for the wider 
 music listening audience, and I have my own developing ideas on how to 
@@ -124,10 +118,7 @@ happen. I myself paid an outside developer in GSTC to contract them in
 assisting me with building out the geist.live site. And still, others have 
 chosen to sell the token right away. 
  
-### 8. You wrote a great article on how you onboarded a teenager onto BSV 
-via 
-NFT sales . Could you talk through how effective it is to onboard users 
-this way?
+### 8. You wrote a great article on how you onboarded a teenager onto BSV via NFT sales . Could you talk through how effective it is to onboard users this way?
 
 I appreciate you reading that. It is clearly written for a non-Bitcoiner 
 audience, but I think the gist is that BitCoin is immediately and 
@@ -156,9 +147,7 @@ Github repository and uses issues that can be boosted. The work ethic and
 practice of Daniel and pow.co has been immensely beneficial for me to 
 absorb, and I am glad that GEIST is a small part of that system. 
  
-### 10. Privately, we have discussed a potential game for the Haste Arcade 
-– 
-is this under the GEIST umbrella?
+### 10. Privately, we have discussed a potential game for the Haste Arcade – is this under the GEIST umbrella?
 
 I am very excited for this and future games to come! GEIST has a fraternal 
 relationship with another project, a game studio called Worldbuilder. We 
