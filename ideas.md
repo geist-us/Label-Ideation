@@ -1,6 +1,8 @@
-##Ideas##
+## Ideas
 
 _Here I will post ideas for future product development of the label:_
+
+## @1shirishsarkar/@usselman
 
 - A collectibles page on https://geist.live that showcases all GEIST products as well as those a user owns _[WIP]_
 - A token enabled site to download a GEIST CLUB sourced sample pack _[]_
